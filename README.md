@@ -1,0 +1,2 @@
+# Machine_Learning_Driven_System_for_Evaluating_Credit_Risk_Profiles_in_Banking
+This repository contains a comprehensive machine learning pipeline for assessing credit risk in banking using the Credit Risk Dataset from Kaggle. The system preprocesses data, performs EDA, trains an XGBoost model for binary classification (loan approved/rejected), and provides an interactive widget-based interface for real-time predictions.
